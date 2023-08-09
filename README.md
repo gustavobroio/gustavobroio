@@ -6,6 +6,8 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gustavobroio&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-gustavobroio.vercel.app/api/top-langs/?username=gustavobroio&show_icons=true&theme=radical&layout=compact" />
  </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobroio)](https://github.com/gustavobroio/github-readme-stats)
  
  &nbsp;
  &nbsp;
