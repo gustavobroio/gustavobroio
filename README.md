@@ -9,6 +9,7 @@
 
 
 <div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
   <summary><b> Sobre mim:</b></summary>
   <br>
  Prazer, sou um desenvolvedor mobile em formação, dedicado e carismático. Após um período de quase três anos atuando na área de suporte técnico, estou direcionando minha energia para o campo do desenvolvimento. Meu foco de estudo se concentra principalmente no Dart, uma linguagem que acredito ter um enorme potencial para a criação de aplicativos eficientes e elegantes.
