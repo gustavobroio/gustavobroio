@@ -27,14 +27,17 @@
 
 <Summary> 📞 Contato:</Summary>
  <br>
-<a href="https://www.instagram.com/gustavobroio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:contato.gustavo.broio@hotmail.com"> <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
- <a href="https://www.linkedin.com/in/gustavo-broio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/gustavobroio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href = "mailto:contato.gustavo.broio@hotmail.com"> <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/gustavo-broio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
  </details>
 </div>
 <br>
+<div>
 <details>
 <Summary> 🎶 O que ando escutando:</Summary>
  <br>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12161528918)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=gustavobroio)
+ <br>
+ </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4040ffff&height=120&section=footer"/>
