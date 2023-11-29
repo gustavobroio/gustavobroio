@@ -6,13 +6,6 @@
  Prazer, sou um desenvolvedor mobile em formação, dedicado e carismático. Após um período de quase três anos atuando na área de suporte técnico, estou direcionando minha energia para o campo do desenvolvimento. Meu foco de estudo se concentra principalmente no Dart, uma linguagem que acredito ter um enorme potencial para a criação de aplicativos eficientes e elegantes.<br><br>
 
 <div>
-  <a href="https://github.com/gustavobroio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustavobroio&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobroio&layout=compact&langs_count=7&theme=gotham"/>
-   
-</div>
-
-<div>
   <br>
 
   <summary> 📱 Tecnologias:</summary>
@@ -30,11 +23,11 @@
 <a href="https://www.instagram.com/gustavobroio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:contato.gustavo.broio@hotmail.com"> <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/gustavo-broio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- </details>
+
 </div>
 <br>
 <div>
-<details>
+
 <Summary> 🎶 O que ando escutando:</Summary>
  <br>
 
