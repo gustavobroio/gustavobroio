@@ -3,7 +3,7 @@
 ⚠️ Este perfil está em constante evolução, e espero que você aprecie o conteúdo que estou compartilhando aqui! ⚠️
 
 ### Sobre mim:
- Prazer, sou um desenvolvedor mobile em formação, dedicado e carismático. Após um período de quase três anos atuando na área de suporte técnico, estou direcionando minha energia para o campo do desenvolvimento. Meu foco de estudo se concentra principalmente no Dart, uma linguagem que acredito ter um enorme potencial para a criação de aplicativos eficientes e elegantes.<br>
+ Prazer, sou um desenvolvedor e em formação, dedicado e carismático. Após um período de quase três anos atuando na área de suporte técnico, estou direcionando minha energia para o campo do desenvolvimento. Meu foco de estudo se concentra principalmente no Dart, uma linguagem que acredito ter um enorme potencial para a criação de aplicativos eficientes e elegantes.<br>
 
 <div>
   <a href="https://github.com/gustavobroio">
