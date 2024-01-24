@@ -32,12 +32,5 @@
 
 </div>
 <br>
-<div>
 
-<Summary> 🎶 O que ando escutando:</Summary>
- <br>
-
- ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12161528918)
- <br>
- </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4040ffff&height=120&section=footer"/>
