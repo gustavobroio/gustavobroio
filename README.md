@@ -27,7 +27,6 @@
 <Summary> 📞 Contato:</Summary>
  <br>
 <a href="https://www.instagram.com/gustavobroio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:contato.gustavo.broio@hotmail.com"> <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/gustavo-broio/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
 </div>
