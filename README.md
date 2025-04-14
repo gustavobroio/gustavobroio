@@ -1,9 +1,11 @@
-# Gustavo Broio Bortolan  
+#  Olá, eu sou o Gustavo Broio!
+
 Desenvolvedor em formação | Apaixonado por tecnologia
 
 ## 💡 Sobre mim
 🎓 Em formação como Full Stack Developer pela FIAP  
 🛠️ Com experiência em suporte técnico (níveis 1 e 2), desenvolvi uma boa base em análise e resolução de problemas  
+
 
 ## ⚙️ Tecnologias e ferramentas:
 
@@ -28,4 +30,5 @@ Desenvolvedor em formação | Apaixonado por tecnologia
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavobroio)
 [![Email](https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo.broio@hotmail.com)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d3d3d3&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c757d&color2=adb5bd&height=120&section=footer"/>
+
