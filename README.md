@@ -8,7 +8,7 @@ Esse texto pode ser visto
 🎓 Em formação como Full Stack Developer pela FIAP  
 🛠️ Com experiência em suporte técnico (níveis 1 e 2), desenvolvi uma boa base em análise e resolução de problemas  
 
-<!--![Snake animation](https://raw.githubusercontent.com/gustavobroio/gustavobroio/output/github-contribution-grid-snake.svg)-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-don/0-don/output/github-contribution-grid-snake-dark.svg)
 
 
 
