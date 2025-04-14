@@ -2,12 +2,12 @@
 
 Desenvolvedor em formação | Apaixonado por tecnologia
 
-![snake gif](https://github.com/gustavobroio/gustavobroio/blob/output/github-contribution-grid-snake.svg)
-
 
 ## 💡 Sobre mim
 🎓 Em formação como Full Stack Developer pela FIAP  
 🛠️ Com experiência em suporte técnico (níveis 1 e 2), desenvolvi uma boa base em análise e resolução de problemas  
+
+![Snake dark](https://github.com/gustavobroio/gustavobroio/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ## ⚙️ Tecnologias e ferramentas:
