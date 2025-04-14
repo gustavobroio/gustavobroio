@@ -2,6 +2,9 @@
 
 Desenvolvedor em formação | Apaixonado por tecnologia
 
+![snake gif](https://github.com/gustavobroio/gustavobroio/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 💡 Sobre mim
 🎓 Em formação como Full Stack Developer pela FIAP  
 🛠️ Com experiência em suporte técnico (níveis 1 e 2), desenvolvi uma boa base em análise e resolução de problemas  
@@ -9,10 +12,10 @@ Desenvolvedor em formação | Apaixonado por tecnologia
 
 ## ⚙️ Tecnologias e ferramentas:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
