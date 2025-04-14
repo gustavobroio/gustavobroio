@@ -1,13 +1,15 @@
 #  Olá, eu sou o Gustavo Broio!
 
 Desenvolvedor em formação | Apaixonado por tecnologia
+Esse texto pode ser visto
 
 
 ## 💡 Sobre mim
 🎓 Em formação como Full Stack Developer pela FIAP  
 🛠️ Com experiência em suporte técnico (níveis 1 e 2), desenvolvi uma boa base em análise e resolução de problemas  
 
-![Snake dark](https://github.com/gustavobroio/gustavobroio/blob/output/github-contribution-grid-snake-dark.svg)
+<!--![Snake animation](https://raw.githubusercontent.com/gustavobroio/gustavobroio/output/github-contribution-grid-snake.svg)-->
+
 
 
 ## ⚙️ Tecnologias e ferramentas:
